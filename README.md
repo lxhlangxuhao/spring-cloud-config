@@ -14,6 +14,6 @@ spring:
 /{label}/{name}-{profiles}.yml
 
 applicationName : 文件名，一般以服务名来命名
-profiles : 一般作为环境标识 dev pro test 
+profiles : 一般作为环境标识 dev pro test
 lable : 分支（branch），指定访问某分支下的配置文件 默认为master
     
